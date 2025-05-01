@@ -1,3 +1,6 @@
+Youtube Vid
+https://youtu.be/TrcyAWGC1k4?si=pbgwwiuTcE9bkj97
+
 # Important
 Checkout @specs -> thats where the requirements lie. 
 Checkout @.cursor/rules -> thats where the rules lie.
